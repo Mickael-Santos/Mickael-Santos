@@ -16,19 +16,22 @@ Here are some ideas to get you started:
 
 - 
 - 💬 Ask me about ...
+- Web Development, Programming, Studyes;
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- contato.geanmickael@gmail.com
+
+
+
 
 <div>
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    <a href="https://www.linkedin.com/in/gean-mickael-junior-silva-santos-b69742253">Mickael Santos 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Sou Desenvolvedor Weinciante-intermediario) e graduando em Ciências da computação e gosto muito de compartilhar meu conhecimento e aprendizado com outras pessoas.
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
