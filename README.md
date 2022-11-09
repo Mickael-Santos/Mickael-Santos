@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Mickael-Santos/Mickael-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -78,4 +78,4 @@ Here are some ideas to get you started:
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
--->
+
