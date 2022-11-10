@@ -8,18 +8,19 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - Project_game
 - Web Development 
+
 - 🌱 I’m currently learning ...
 - JavaScript 
+- HTML
+- CSS
 - C#
 
-
-
-- 
 - 💬 Ask me about ...
 - Web Development, Programming, Studyes;
+
 - 📫 How to reach me: ...
 - contato.geanmickael@gmail.com
-
+- (67) 99901-3557
 
 
 
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Weinciante-intermediario) e graduando em Ciências da computação e gosto muito de compartilhar meu conhecimento e aprendizado com outras pessoas.
+    Sou Desenvolvedor Web inciante-intermediario) e graduando em Ciências da computação e gosto muito de compartilhar meu conhecimento e aprendizado com outras pessoas.
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
@@ -43,9 +44,6 @@ Here are some ideas to get you started:
     </a>  
   </p>
   
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
-  </p>
   
 </div>
 
