@@ -33,15 +33,7 @@ Here are some ideas to get you started:
   
   <p align="center">
     Sou Desenvolvedor Web inciante-intermediario) e graduando em Ciências da computação e gosto muito de compartilhar meu conhecimento e aprendizado com outras pessoas.
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
+      
   </p>
   
   
