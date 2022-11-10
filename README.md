@@ -1,10 +1,6 @@
 ### Hello everyone! 👋
 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 
 - Project_game;
@@ -19,7 +15,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...
 - 
-- Web Development;
+-  Web Development;
 -  Programming ;
 -  Studyes;
 
