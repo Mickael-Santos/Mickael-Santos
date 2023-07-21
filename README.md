@@ -1,25 +1,21 @@
-### Hello everyone! 👋
+### Olá a todos! 👋
 
+- 🔭 Atualmente estou trabalhando em...
 
-- 🔭 I’m currently working on ...
-
-- Project_game;
-- Web Development 
+- rpg_text_terminal_game; 
  
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente estou aprendendo...
 
-- JavaScript ;
-- HTML;
-- CSS;
 - C#;
+-.NET;
 
-- 💬 Ask me about ...
+- 💬 Pergunte-me sobre...
 
--  Web Development;
--  Programming ;
--  Studyes;
+-Desenvolvimento;
+-Programação;
+-Estudos;
 
-- 📫 How to reach me: ...
+- 📫 Como chegar até mim: ...
 
 - contato.geanmickael@gmail.com;
 
