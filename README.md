@@ -7,7 +7,7 @@
 - 🌱 Atualmente estou aprendendo...
 
 - C#;
--.NET;
+.NET;
 
 - 💬 Pergunte-me sobre...
 
