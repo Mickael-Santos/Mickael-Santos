@@ -1,22 +1,26 @@
-### Olá a todos! 👋
+## 💜 Olá, meu nome é {Mickael}!
 
-- 🔭 Atualmente estou trabalhando em...
+Tenho 20 anos, atualmente estudo ciências da computação que é uma área que me traz bastante entusiasmo,
+gosto de sempre aprender algo novo e desafios são como uma missão para mim, gosto do meio social e de se
+dar bem com as pessoas, no trabalho em equipe sempre gosto de me manter organizado para contribuir ativamente com a equipe 
+e no prazo estipulado e muitas das vezes gosto de puxar a frente para determinados assuntos.
 
-- Dashboard 
- 
-- 🌱 Atualmente estou aprendendo...
+🔭 Atualmente trabalhando em Dashboard integrado em .NET 
 
-- C#;
-.NET;
+---
 
-- 💬 Pergunte-me sobre...
+## 🚀 Minhas Skills
 
--Desenvolvimento;
--Programação;
--Estudos;
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 
-- 📫 Como chegar até mim: ...
+---
 
-- contato.geanmickael@gmail.com;
+## ⭐ GitHub Stats
 
-- (67) 99901-3557;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mickael-Santos&show_icons=true)
