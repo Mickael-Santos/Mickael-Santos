@@ -52,6 +52,7 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img alt="ASM Assembly" src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge" />
 
 </div>
 
