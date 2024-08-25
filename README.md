@@ -3,7 +3,7 @@
 
 ### Sobre Mim
 
-#### Tenho 21 anos, atualmente estudo ciências da computação que é uma área que me traz bastante entusiasmo, gosto de sempre aprender algo novo e desafios são como uma missão para mim, gosto do meio social e de se dar bem com as pessoas, no trabalho em equipe sempre gosto de me manter organizado para contribuir ativamente com a equipe e no prazo estipulado e muitas das vezes gosto de puxar a frente para determinados assuntos.
+#### Atualmente profissional estudante ciências da computação que é uma área que me traz bastante entusiasmo, gosto de sempre aprender algo novo e desafios são como uma missão para mim, gosto do meio social e de se dar bem com as pessoas, no trabalho em equipe sempre gosto de me manter organizado para contribuir ativamente com a equipe e no prazo estipulado e muitas das vezes gosto de puxar a frente para determinados assuntos.
 
 ![Mickael-Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickael-Santos&theme=midnight-purple)
 
