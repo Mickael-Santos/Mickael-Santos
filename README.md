@@ -7,7 +7,7 @@
 
 ![Mickael-Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickael-Santos&theme=midnight-purple)
 
-## 👨‍💻 Tecnologias que uso no meu dia a dia
+## 👨‍💻 Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
