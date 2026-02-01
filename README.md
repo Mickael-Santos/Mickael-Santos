@@ -11,12 +11,6 @@ Estou em constante evolução, estudando novas tecnologias e aprimorando process
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mickael-Santos&show_icons=true&theme=midnight-purple)
-
----
-
 ## 👨‍💻 Tecnologias que utilizo
 
 ### Backend
@@ -55,7 +49,3 @@ Estou em constante evolução, estudando novas tecnologias e aprimorando process
 </div>
 
 ---
-
-## 📈 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mickael-Santos&layout=compact&theme=midnight-purple)
