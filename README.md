@@ -2,10 +2,10 @@
 
 ### Sobre Mim
 
-Sou **Software Engineer Fullstack** e estudante de **Ciência da Computação**, apaixonado por tecnologia e pelo impacto que ela pode gerar no mundo.  
-Tenho perfil **analítico, colaborativo e orientado a resultados**, com foco em criar **aplicações robustas, escaláveis e centradas no usuário**.  
+**Software Engineer Fullstack** formado em **Ciência da Computação**, apaixonado por tecnologia e pelo impacto que ela pode gerar no mundo.  
+Gosto de trabalhar de forma **analítica, colaborativa e orientado a resultados**, com foco em criar **aplicações robustas, escaláveis e centradas no usuário**.  
 
-Gosto de aprender constantemente, enfrentar novos desafios e contribuir ativamente em equipes, mantendo organização, qualidade e prazos. Em muitos projetos, assumo a liderança de iniciativas técnicas quando surge a oportunidade, sempre buscando **agregar valor e acelerar entregas**.  
+Gosto de aprender constantemente, enfrentar novos desafios e contribuir ativamente em equipes, mantendo organização, qualidade e prazos. Em muitos projetos, assumo a liderança de iniciativas técnicas quando surge a oportunidade, sempre buscando **agregar valor e acelerar entregas**.
 
 ![Mickael-Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickael-Santos&theme=midnight-purple)
 
